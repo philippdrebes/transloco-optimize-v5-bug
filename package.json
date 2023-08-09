@@ -1,0 +1,15 @@
+{
+  "name": "transloco-opimize-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "transloco:optimize": "transloco-optimize dist/assets/i18n"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@ngneat/transloco-optimize": "^5.0.2"
+  }
+}
